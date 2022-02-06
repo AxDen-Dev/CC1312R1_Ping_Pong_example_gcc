@@ -1,6 +1,6 @@
 # CC1312 Ping pong example
 
-<img src="./asset/CC1312.png">
+<img src="./asset/cc1312.png">
 
 -------------------------
 
