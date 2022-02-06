@@ -1,0 +1,1 @@
+"./RadioTask.o" "./SensorTask.o" "./main.o" "./syscfg/ti_easylink_config.o" "./syscfg/ti_devices_config.o" "./syscfg/ti_radio_config.o" "./syscfg/ti_drivers_config.o" "./uart_usb_in_out.o" "./easylink/EasyLink.o" -Wl,-T"../cc13x2_cc26x2_tirtos.lds" -l:ti_utils_build_linker.cmd.genlibs -l:"ti/devices/cc13x2_cc26x2/driverlib/bin/gcc/driverlib.lib" -lgcc -lc -lm -lnosys 
